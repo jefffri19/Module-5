@@ -21,9 +21,12 @@ The program defines a class `Demo` with:
    - Create an instance of the `Demo` class.
    - Delete the object using the `del` keyword.
 ## Program
-Add code Here
+<img width="713" height="268" alt="image" src="https://github.com/user-attachments/assets/f870d129-8b6f-426c-9f5d-91f0f0e98ccf" />
 
 ## 🧪 Output
+<img width="431" height="57" alt="image" src="https://github.com/user-attachments/assets/c7237a7e-da01-4d68-adf0-c31910a148d3" />
 
 ## Result
+Thus, the above asked program is encoded and excecuted.
+
 
