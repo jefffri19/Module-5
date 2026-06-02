@@ -11,9 +11,12 @@ To write a Python program that creates a **Student** class with a **default cons
 5. **Execute the Program**: Instantiate the `Student` class and call the `show` method.
 
 ## 🧾 Program
+<img width="620" height="348" alt="image" src="https://github.com/user-attachments/assets/71d65006-42a1-4a07-a21f-34bd0debb8a7" />
 
-Add code here
 
 ## Output
+<img width="340" height="52" alt="image" src="https://github.com/user-attachments/assets/728476e3-fd91-40ed-a6fa-6e6bfaf6f27c" />
 
 ## Result
+Thus, the above asked program is encoded and excecuted.
+
